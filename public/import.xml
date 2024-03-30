@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FdbRoot gia="11" CreateDate="2021-02-18 10:07:16">
+	<worker UID="00E8EDAF-471B-4A5A-907E-1D701D0FA71E" RegionCode="62" Station="403" PositionID="2" LastName="фамилия" FirstName="имя" MiddLeName="отчество" PhoneNumber="8(255)782-58-57" />
+	<worker UID="84E4AE31-49D6-4EAA-8D1C-3D1B52DE959B" RegionCode="62" Station="403" PositionID="2" LastName="фамилия" FirstName="имя" MiddLeName="отчество" PhoneNumber="8(226)2655546" />
+	<worker UID="258BB342-09ED-4CC1-A692-E7B9BACC51B6" RegionCode="62" Station="403" PositionID="1" LastName="фамилия" FirstName="имя" MiddLeName="отчество" PhoneNumber="8(255)6267228" />
+	<worker UID="CBCA889B-0B4F-4A4B-8520-EE5602F6EAE1" RegionCode="62" Station="403" PositionID="5" LastName="фамилия" FirstName="имя" MiddLeName="отчество" PhoneNumber="8(256)645-66-75" />
+	<worker UID="BC5EDC50-EDFC-012F-5EE9-001B7838B0DE" RegionCode="66" Station="8503" PositionID="2" LastName="фамилия" FirstName="имя" MiddLeName="отчество" PhoneNumber="(264)5726462" />
+	<worker UID="BC620180-EDFC-012F-5EE9-001B7838B0DE" RegionCode="66" Station="8503" PositionID="5" LastName="фамилия" FirstName="имя" MiddLeName="отчество" PhoneNumber="(264)5854225" />
+	<worker UID="BC5BB9E0-EDFC-012F-5EE9-001B7838B0DE" RegionCode="66" Station="8503" PositionID="2" LastName="фамилия" FirstName="имя" MiddLeName="отчество" PhoneNumber="(262)4566522" />
+	<worker UID="6F1CB700-EDFD-012F-5EE9-001B7838B0DE" RegionCode="66" Station="8503" PositionID="2" LastName="фамилия" FirstName="имя" MiddLeName="отчество" PhoneNumber="(268)2586552" />
+	<worker UID="54EA3E10-EDFD-012F-5EE9-001B7838B0DE" RegionCode="66" Station="8503" PositionID="7" LastName="фамилия" FirstName="имя" MiddLeName="отчество" PhoneNumber="(264)5885758" />
+	<worker UID="6FBA9730-EDFD-012F-5EE9-001B7838B0DE" RegionCode="66" Station="8503" PositionID="7" LastName="фамилия" FirstName="имя" MiddLeName="отчество" PhoneNumber="(222)5554545" />
+</FdbRoot>
